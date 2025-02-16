@@ -93,7 +93,7 @@ Contributions are always welcome! Feel free to submit pull requests or report an
 - Added Process Hollowing support
 
 ## License 📜
-This project is released under an open-source license. Use responsibly!
+This project is licensed under the **MIT License**. Use responsibly!
 
 ---
 
