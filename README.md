@@ -1,4 +1,4 @@
-# ![Nexus Injecteur](https://cdn.discordapp.com/attachments/1308922381754040340/1339987210568732705/Picsart_25-02-14_16-49-50-074.png?ex=67b2b216&is=67b16096&hm=ce3bafbd680e079c2c931270bdd885fb18b66ee41b31016160cade3521ecc0eb&)
+# ![Nexus Injecteur](https://raw.githubusercontent.com/124Px/Nexus-injector/refs/heads/main/Resources/nexus%20banner.png)
 
 # Nexus Injecteur - An advanced Dll Injector
 
