@@ -97,5 +97,5 @@ This project is licensed under the **MIT License**. Use responsibly!
 
 ---
 
-![Nexus Injecteur Logo](https://cdn.discordapp.com/attachments/1308922381754040340/1339996458782556222/Picsart_25-02-14_17-27-24-052.png?ex=67b2bab3&is=67b16933&hm=f6ffe7634da774df8df1948324343325f49221066ff94b73c5c290fa8adc5423&)
+![Nexus Injecteur Logo](https://raw.githubusercontent.com/124Px/Nexus-injector/refs/heads/main/Resources/Nexus%20Logo.png)
 
